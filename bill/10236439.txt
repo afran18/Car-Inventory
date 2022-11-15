@@ -1,0 +1,19 @@
+
+	 CAR Inventory Management System
+	 Afnan Hudli | Afran Davalbhai
+	   USN:2AG19CS001 | 2AG19CS002
+ ===============================================
+ Customer Name : Afran
+ Ph no. :7353574738
+ Bill no. : 10236439		Date: 10/11/2022
+ ===============================================
+ Product Name			QTY	Price
+ ===============================================
+        
+ Engine Oil			1	Rs.700.0
+ ===============================================
+ Bill Amount				Rs.700.0
+ Discount				Rs.35.0
+ Net Pay				Rs.665.0
+ ===============================================        
+        

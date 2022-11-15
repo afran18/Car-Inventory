@@ -1,0 +1,20 @@
+
+	 CAR Inventory Management System
+	 Afnan Hudli | Afran Davalbhai
+	   USN:2AG19CS001 | 2AG19CS002
+ ===============================================
+ Customer Name : Wylan
+ Ph no. :7353574738
+ Bill no. : 15025780		Date: 15/01/2022
+ ===============================================
+ Product Name			QTY	Price
+ ===============================================
+        
+ Mirror			2	Rs.3000.0
+ Radiator			1	Rs.8000.0
+ ===============================================
+ Bill Amount				Rs.11000.0
+ Discount				Rs.550.0
+ Net Pay				Rs.10450.0
+ ===============================================        
+        

@@ -1,0 +1,20 @@
+
+	 CAR Inventory Management System
+	 Afnan Hudli | Afran Davalbhai
+	   USN:2AG19CS001 | 2AG19CS002
+ ===============================================
+ Customer Name : xyz
+ Ph no. :9876543210
+ Bill no. : 15033463		Date: 15/01/2022
+ ===============================================
+ Product Name			QTY	Price
+ ===============================================
+        
+ Engine Oil			1	Rs.700.0
+ Front Shock Absorber			1	Rs.3500.0
+ ===============================================
+ Bill Amount				Rs.4200.0
+ Discount				Rs.210.0
+ Net Pay				Rs.3990.0
+ ===============================================        
+        

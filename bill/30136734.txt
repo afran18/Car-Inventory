@@ -1,0 +1,19 @@
+
+	 CAR Inventory Management System
+	 Afnan Hudli | Afran Davalbhai
+	   USN:2AG19CS001 | 2AG19CS002
+ ===============================================
+ Customer Name : KaifC
+ Ph no. :6363652156
+ Bill no. : 30136734		Date: 30/03/2022
+ ===============================================
+ Product Name			QTY	Price
+ ===============================================
+        
+ Disc Drum			2	Rs.2400.0
+ ===============================================
+ Bill Amount				Rs.2400.0
+ Discount				Rs.120.0
+ Net Pay				Rs.2280.0
+ ===============================================        
+        

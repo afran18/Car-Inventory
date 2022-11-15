@@ -1,0 +1,7 @@
+Admin Login:
+Username: AfranBaazigar
+Password: 123456
+
+Employee Login:
+Username: Afnan
+Password: 123123

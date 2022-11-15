@@ -1,0 +1,19 @@
+
+	 CAR Inventory Management System
+	 Afnan Hudli | Afran Davalbhai
+	   USN:2AG19CS001 | 2AG19CS002
+ ===============================================
+ Customer Name : Parvez
+ Ph no. :9606790885
+ Bill no. : 13137138		Date: 13/01/2022
+ ===============================================
+ Product Name			QTY	Price
+ ===============================================
+        
+ Radiator			1	Rs.8000.0
+ ===============================================
+ Bill Amount				Rs.8000.0
+ Discount				Rs.400.0
+ Net Pay				Rs.7600.0
+ ===============================================        
+        

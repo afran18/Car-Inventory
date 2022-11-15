@@ -1,0 +1,19 @@
+
+	 CAR Inventory Management System
+	 Afnan Hudli | Afran Davalbhai
+	   USN:2AG19CS001 | 2AG19CS002
+ ===============================================
+ Customer Name : Trial
+ Ph no. :7896541230
+ Bill no. : 30045422		Date: 30/03/2022
+ ===============================================
+ Product Name			QTY	Price
+ ===============================================
+        
+ castol			1	Rs.1300.0
+ ===============================================
+ Bill Amount				Rs.1300.0
+ Discount				Rs.65.0
+ Net Pay				Rs.1235.0
+ ===============================================        
+        

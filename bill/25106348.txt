@@ -1,0 +1,19 @@
+
+	 CAR Inventory Management System
+	 Afnan Hudli | Afran Davalbhai
+	   USN:2AG19CS001 | 2AG19CS002
+ ===============================================
+ Customer Name : Md Kaif
+ Ph no. :6362196902
+ Bill no. : 25106348		Date: 25/01/2022
+ ===============================================
+ Product Name			QTY	Price
+ ===============================================
+        
+ Front Shock Absorber			4	Rs.14000.0
+ ===============================================
+ Bill Amount				Rs.14000.0
+ Discount				Rs.700.0
+ Net Pay				Rs.13300.0
+ ===============================================        
+        
