@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e8a07f5-e9dc-4ea6-b2e2-f6b4670e8b26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CAR INVENTORY MANAGEMENT SYSTEM.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ER Diagram dbms mini project.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Login Details.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SCHEMA Diagram dbms mini project.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/10236439.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/12224480.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/12224775.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/12224840.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/12225034.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/12236331.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/12236654.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/13136533.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/13136830.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/13136935.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/13137138.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/15025780.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/15033463.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/25106348.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/25162452.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/27317044.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/30045422.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bill/30136734.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/billing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car2.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/car2.sqbpro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db_create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/email_pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ER Diagram dbms mini project.cdr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bmw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/car_login big.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cat2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/huracan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mclaren.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/menu_im.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/product.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sales.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/side.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snapshots/billing screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snapshots/category.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snapshots/dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snapshots/employee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snapshots/forgot password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snapshots/login page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snapshots/otp email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snapshots/product.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snapshots/sales.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snapshots/supplier.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supplier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tempCodeRunnerFile.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="23HnqX37KJeCluOZ9KjdzBkX1Bg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.dashboard">
+    <configuration name="category" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Car Inventory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/category.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dashboard" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Car Inventory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dashboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="db_create" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Car Inventory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db_create.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Car Inventory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="products" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Car Inventory" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/products.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dashboard" />
+        <item itemvalue="Python.login" />
+        <item itemvalue="Python.db_create" />
+        <item itemvalue="Python.category" />
+        <item itemvalue="Python.products" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e8a07f5-e9dc-4ea6-b2e2-f6b4670e8b26" name="Changes" comment="" />
+      <created>1641400071070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641400071070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
